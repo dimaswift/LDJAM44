@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 516816cc8ac1580459f610640712eaf3, type: 3}
+  m_Name: BloodEffect
+  m_EditorClassIdentifier: 
+  Sounds:
+  - {fileID: 8300000, guid: 751e265b644247c47b724b2cd47530ba, type: 3}
+  - {fileID: 8300000, guid: aa82460e02a9e484398376151ae74882, type: 3}
+  ParticleSystem: {fileID: 5411389927557921174, guid: 3bfb0d55a13de78418a4d265915a7828,
+    type: 3}
